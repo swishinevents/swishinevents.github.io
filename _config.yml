@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://swishinevents.github.io
+title: sWISHin 
+tagline: Events Management Company
+description: My awesome new site
+paginate: 5
