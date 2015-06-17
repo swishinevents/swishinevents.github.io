@@ -2,6 +2,8 @@
 published: true
 title: WHAT ARE THEME BASED WEDDINGS AND HOW ARE THEY HAPPEN?
 layout: post
+tags: [Corporate, Events, Management, Wedding, Planning, Theme, Based, Wedding, Organizer, Event, Management, Company, Live, Musical, Show, Organizer, Trade, Show, Organizer, Government, and, NGO's, show, organizer, ]
+categories: [event, management, company, in, india]
 ---
 Wedding is the most auspicious, fortunate and generally one-off event of life. Every couple wishes to make their wedding unique and special. Thus, to attain that wish, couples go for something different. Now, what is “different” here?
  The answer is, ‘Theme wedding’. ‘Theme’ is anything that is designed to reflect a particular part or a subject of something. Hence, in order to make a wedding attractive and enchanting people choose thematic style weddings. In which, the whole wedding is based on a particular theme and the atmosphere of that wedding is pouring down in the same. The theme would be anything, it depends on the mood of the bride and groom. Some of very popular and most likeable themes are - Vintage theme, Beach theme, Victorian theme, Rose theme, Royal theme, Black and White theme and many more.
@@ -18,5 +20,3 @@ It conveys the best tone, flavor, feel and style of wedding.
 It is easy to make a wedding more memorable.
 It helps to make decorations and other arrangements fast, once the theme is established.
 For more info visit @ http://swishin.co/
-
-
